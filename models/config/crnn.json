@@ -1,0 +1,8 @@
+{
+    "kernel_size": 5,
+    "cnn_width_factor": 2,
+    "n_stages": 3,
+    "stage_repeat": 4,
+    "rnn_hidden_size": 64,
+    "rnn_num_layers": 2
+}
